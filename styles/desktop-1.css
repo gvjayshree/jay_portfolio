@@ -1,0 +1,452 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-Txt {
+  width: 100%;
+  height: 432.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #b2a4ff;
+}
+.desktop-1-Txt .unsplash-gndf5nufru-pwr {
+  width: 144rem;
+  height: 124.7rem;
+  position: absolute;
+  left: 0;
+  top: 307.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Txt .unsplash-vey6fiob1ei-uyJ {
+  width: 144rem;
+  height: 109rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 196.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Txt .unsplash-k1bovtizss-CxQ {
+  width: 144rem;
+  height: 87.5rem;
+  position: absolute;
+  left: 0;
+  top: 108.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Txt .unsplash-gndf5nufru-vtQ {
+  width: 144rem;
+  height: 122rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Txt .image-3-1-GBa {
+  width: 58.9rem;
+  height: 109rem;
+  position: absolute;
+  left: 0;
+  top: 196.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Txt .yellow-blur-BJY {
+  width: 156.5rem;
+  height: 31.3rem;
+  position: absolute;
+  left: 3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Txt .yellow-blur-iJU {
+  width: 23.5456rem;
+  height: 464.6839rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Txt .side-3be {
+  width: 43.7rem;
+  height: 429.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  filter: blur(15rem);
+  background-color: rgba(246, 31, 147, 0.400000006);
+}
+.desktop-1-Txt .side-JAC {
+  width: 32.1rem;
+  height: 443.4rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 2.8rem;
+  filter: blur(15rem);
+  background-color: rgba(246, 31, 147, 0.3199999928);
+}
+.desktop-1-Txt .side-EJk {
+  width: 70.8rem;
+  height: 450rem;
+  position: absolute;
+  left: 37.9rem;
+  top: 0;
+  filter: blur(15rem);
+  background-color: rgba(246, 31, 147, 0.2599999905);
+}
+.desktop-1-Txt .about-MuA {
+  width: 27rem;
+  height: 4.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 49.4rem;
+  top: 6.5rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .skillset-Re8 {
+  width: 22.9rem;
+  height: 4.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 80.4rem;
+  top: 6.5rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .education-hrY {
+  width: 52.1rem;
+  height: 10.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 111.1rem;
+  top: 6.5rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .helloeveryone-im-jayshree-in-this-portfolio-youll-find-a-showcase-of-my-projects-skills-and-achievements-highlighting-how-i-bring-creativity-innovation-and-problem-solving-to-every-project-i-undertake-take-a-look-around-and-see-how-my-skills-and-experience-1MS {
+  width: 75.9rem;
+  height: 39.3rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 18.2rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #4c0713;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-Txt .image-2-1-1-xvt {
+  width: 99.6rem;
+  height: 70.3rem;
+  position: absolute;
+  left: 0;
+  top: 51.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Txt .rectangle-1-JE4 {
+  width: 95rem;
+  height: 64.2rem;
+  position: absolute;
+  left: 72rem;
+  top: 123.6rem;
+  filter: blur(15rem);
+  background-color: rgba(255, 180, 180, 0.6999999881);
+  border-radius: 0 0 0 30rem;
+}
+.desktop-1-Txt .machine-learning-cPA {
+  width: 35rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 100.7rem;
+  top: 222.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .a-bit-about-me-trU {
+  width: 32.7rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 96.1rem;
+  top: 130.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .im-student-pursuing-bachelor-degree-in-artificial-intelligence-and-data-science-in-crescent-institute-of-science-and-technology-i-possess-strong-critical-thinking-problem-solving-and-analytical-abilities-D84 {
+  width: 42.7rem;
+  height: 38.2rem;
+  position: absolute;
+  left: 94.9rem;
+  top: 139.7rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-Txt .python-2rC {
+  width: 14rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 64.8rem;
+  top: 222.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .html-and-css-kGQ {
+  width: 26rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 104.4rem;
+  top: 249.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .skills-amE {
+  width: 27.4rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 83rem;
+  top: 199.5rem;
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .businesswoman-260nw-155754371-1previewrev1-1-VtC {
+  width: 57.9rem;
+  height: 62.4rem;
+  position: absolute;
+  left: 40.9rem;
+  top: 128.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Txt .home-bAY {
+  width: 15rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 22.1rem;
+  top: 6.5rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .rectangle-6-JKr {
+  width: 45rem;
+  height: 23rem;
+  position: absolute;
+  left: 96.5rem;
+  top: 213.2rem;
+  background-color: rgba(246, 31, 147, 0.2899999917);
+  border-radius: 11.5rem;
+}
+.desktop-1-Txt .rectangle-8-QNt {
+  width: 35.1rem;
+  height: 23rem;
+  position: absolute;
+  left: 101.4rem;
+  top: 241.6rem;
+  background-color: rgba(246, 31, 147, 0.2899999917);
+  border-radius: 11rem;
+}
+.desktop-1-Txt .rectangle-7-jRA {
+  width: 35.1rem;
+  height: 23rem;
+  position: absolute;
+  left: 58.5rem;
+  top: 241.6rem;
+  background-color: rgba(246, 31, 147, 0.2899999917);
+  border-radius: 9.8rem;
+}
+.desktop-1-Txt .rectangle-10-TMA {
+  width: 35.1rem;
+  height: 23rem;
+  position: absolute;
+  left: 60.3rem;
+  top: 273.6rem;
+  background-color: rgba(246, 31, 147, 0.2899999917);
+  border-radius: 9.8rem;
+}
+.desktop-1-Txt .rectangle-13-PVi {
+  width: 50.5rem;
+  height: 22rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 308.2rem;
+  background-color: rgba(255, 171, 171, 0.2899999917);
+  border-radius: 9.8rem;
+}
+.desktop-1-Txt .rectangle-15-WqE {
+  width: 84.2rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 390.1rem;
+  background-color: rgba(255, 171, 171, 0.2899999917);
+  border-radius: 9.8rem;
+}
+.desktop-1-Txt .rectangle-14-EmE {
+  width: 72.1rem;
+  height: 25rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 352.5rem;
+  background-color: rgba(255, 171, 171, 0.2899999917);
+  border-radius: 9.8rem;
+}
+.desktop-1-Txt .rectangle-11-ML4 {
+  width: 35.1rem;
+  height: 23rem;
+  position: absolute;
+  left: 103.5rem;
+  top: 273.6rem;
+  background-color: rgba(246, 31, 147, 0.2899999917);
+  border-radius: 9.8rem;
+}
+.desktop-1-Txt .rectangle-9-5Wx {
+  width: 35.1rem;
+  height: 23rem;
+  position: absolute;
+  left: 58rem;
+  top: 215.5rem;
+  background-color: rgba(246, 31, 147, 0.2899999917);
+  border-radius: 9.8rem;
+}
+.desktop-1-Txt .tableau-ohr {
+  width: 15.6rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 66.3rem;
+  top: 249.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .power-bi-tjJ {
+  width: 17.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 66.8rem;
+  top: 281.6rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .javascript-1ov {
+  width: 21rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 110.8rem;
+  top: 282.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .education-vvt {
+  width: 29.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 7rem;
+  top: 313.8rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Txt .bachelors-in-computer-science-and-engineeringcrescent-institute-of-science-technology-vandal-TA8 {
+  width: 67.4rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 7rem;
+  top: 356.3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-Txt .class-11-12-in-bio-computer-science-the-velammal-international-school-VsW {
+  width: 82rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 395.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
